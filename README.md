@@ -8,6 +8,10 @@ Arduino Uno testing &amp; catalog
 
 ### Arduino Uno R3![Arduino Uno R3 Image](.github/images/PXL_20240515_144548227.jpg "Arduino Uno R3")
 
+### Espressif Esp32 Wroom 32d ![Espressif Esp32 Wroom 32d Image](.github/images/PXL_20240812_144524716.jpg "Espressif Esp32 Wroom 32d")
+
+### Esp8266 Ch340 Lolin Nodemcu V3 ![Esp8266 Ch340 Lolin Nodemcu V3 Image](.github/images/PXL_20240812_144600284.jpg "Esp8266 Ch340 Lolin Nodemcu V3")
+
 ## IDEs
 
 - Arduino IDE
@@ -19,6 +23,8 @@ Arduino Uno testing &amp; catalog
 | Image | Description |
 |-------|-------------|
 | <img src=".github/images/PXL_20240515_141724759.jpg" alt="OLED 0.91inch 128x32" width="420px"> | OLED 0.91inch 128x32 |
+| <img src=".github/images/PXL_20240812_144434648.jpg" alt="Durable Tpa3110 Xha232 30w + 30w 2.0 Channel Digital Stereo Audio Power Amplifier Board" width="420px"> | Durable Tpa3110 Xha232 30w + 30w 2.0 Channel Digital Stereo Audio Power Amplifier Board |
+| <img src=".github/images/PXL_20240812_144456034.MP.jpg" alt="Tpa3110 2x15w Digital Audio Stereo Amplifier Module" width="420px"> | Tpa3110 2x15w Digital Audio Stereo Amplifier Module |
 | <img src=".github/images/PXL_20240515_141732486.jpg" alt="HC06 Bluetooth Module" width="420px"> | Hc06 Bluetooth Module |
 | <img src=".github/images/PXL_20240515_142138563.MP.jpg" alt="Laser Diode" width="420px"> | 1 x Laser Diode Module 650nm 5v Laser Light Module Ky008 & 2 x 650nm 6mm 3v 5mw Laser Dot Diode Laser Diode |
 | <img src=".github/images/PXL_20240515_142207129.jpg" alt="Analog Joystick" width="420px"> | Dual Axis Xy Analog Joystick Module Ky 023 2 Axis Ps2 Joystick Control Lever Breakout |
